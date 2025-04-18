@@ -68,3 +68,7 @@ By the end of this project, we were able to:
 git clone https://github.com/gumaruw/unicorn-companies-analysis.git
 cd unicorn-companies-analysis
 jupyter notebook
+```
+
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
